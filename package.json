@@ -2,7 +2,7 @@
   "name": "aws-sample-project",
   "version": "0.1.0",
   "bin": {
-    "aws-sample-project": "bin/aws-sample-project.js"
+    "todo-app-project": "bin/todo-app-project.ts"
   },
   "scripts": {
     "build": "tsc",
